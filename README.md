@@ -1,4 +1,5 @@
-![Trabalhando com Machine Learning](https://hermes.dio.me/lab_projects/badges/87d332d0-5198-4a2f-b159-38c8c2976954.png)
+<img src="https://hermes.dio.me/lab_projects/badges/87d332d0-5198-4a2f-b159-38c8c2976954.png" alt="Trabalhando com Machine Learning" width="200">
+
 
 # Laboratório de Fundamentos de Inteligência Artificial ⚗️
 
@@ -27,3 +28,10 @@ Neste laboratório, você será introduzido ao conceito de machine learning e tr
 ### Observação
 
 Certifique-se de seguir as instruções detalhadas fornecidas no link acima. Se encontrar algum problema com o laboratório ou tiver dúvidas, consulte a documentação oficial ou entre em contato com o suporte.
+
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
