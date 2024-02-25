@@ -1,6 +1,9 @@
-<img src="https://hermes.dio.me/lab_projects/badges/87d332d0-5198-4a2f-b159-38c8c2976954.png" alt="Trabalhando com Machine Learning" width="200">
+<p align="center">
+  <img src="https://hermes.dio.me/lab_projects/badges/87d332d0-5198-4a2f-b159-38c8c2976954.png" alt="Trabalhando com Machine Learning" width="200">
+</p>
 
 # Estudo sobre Machine Learning Automatizado no Azure Machine Learning ⚙️
+
 
 Neste exercício, exploraremos o recurso de aprendizado de máquina automatizado no Azure Machine Learning para treinar e avaliar um modelo de aprendizado de máquina. Em seguida, implantaremos e testaremos o modelo treinado.
 
